@@ -28,5 +28,4 @@ BitTree is a lightweight web application that lets users create and share a pers
 
 ---
 
-## 🧩 Folder Structure (Simplified)
 
