@@ -4,15 +4,6 @@ BitTree is a lightweight web application that lets users create and share a pers
 
 ---
 
-## 🚀 Live Demo
-
-[Click here to try it out](#) *(optional if hosted)*
-
----
-
-## 📸 Preview
-
-![BitTree Screenshot](public/generate.png)
 
 ---
 
